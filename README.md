@@ -2,9 +2,17 @@
 A simple singleton implementation to work with PyQt5
 
 ## Installation
-Install dependencies and run install:
+Using pip:
 
 ```sh
+$ pip install PyQt5Singleton
+```
+
+or clone this repo, install dependencies and run install:
+
+```sh
+$ git clone https://github.com/jazzycamel/PyQt5Singleton.git
+$ cd PyQt5Singleton
 $ pip install -r requirements.txt
 $ python setup.py install
 ```
